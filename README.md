@@ -13,8 +13,19 @@ Moving files to xampp/ htdocs folder. from files connect.php file  <br/>
 $db_host = "localhost";  
 $db_username = "root";
 $db_userpass = "";
-$db_name = "beuty_center";
+$db_name = "beuty_center"; <br/> olarak düzenleyiniz
+# PROJE KULLANIMI: 
+PROJEYI BİLGİSAYARINIZA İNDİRNİZ.
+XAMP KONTROL PANELİNDEN `apache` VE `mysql` START EDİNİZ.
+`mysql` APMİN PANELİNE ULAŞINIZ . 
+database.sql içeriğine uygun ilerleyiniz.
+xamp/htdocs/
+dizinin altına dosyaları ekleyiniz.
+**NOT: dizine eklediğiniz dosya uzantına dıkkat ederek linkinizi düzenleyiniz .<br/> ornegin :  proje.php dosyasını eklemisseniz /proje.php/index.php şeklinde düzenleme yapınız 
+`apache` adminden izleyiniz.** .<br/><br/><br/>
 **2. : [İletilen linke tıklamanız yeterli.](http://cmnhmyr.epizy.com/index.php)**
+<br/><br/><br/>
+
 # POSSIBLE ADDITIONS TO THE PROJECT
 from fonts <br/>
 filtering and setting rules for appointments (appointments cannot be made at the same time, etc.)
