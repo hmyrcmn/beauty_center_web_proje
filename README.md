@@ -2,7 +2,7 @@
 BOOTSTRAP USED BY FRONTEND <"\n">
 MYSQL USED BY THE DATA <"\n">
 HTML ,CSS +JS= BOOTSTRAP , PHP, MYSQL <"\n">
-basic beauty center fonk sign in sign up take app delete ,update etx... <"\n">
+basic beauty center fonk sign in sign up take app delete ,update etx... <'\n'>
 # SIGN UP 
 USER ENTER DATA WİTH FORM sign.up  add customer tabe in beauty__center data base <"\n">
 # SIGN İN 
