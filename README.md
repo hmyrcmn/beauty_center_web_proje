@@ -1,5 +1,5 @@
 # beauty_center_web
-BOOTSTRAP USED BY FRONTEND <"\n">
+BOOTSTRAP USED BY FRONTEND <\n>
 MYSQL USED BY THE DATA <"\n">
 HTML ,CSS +JS= BOOTSTRAP , PHP, MYSQL <"\n">
 basic beauty center fonk sign in sign up take app delete ,update etx... <'\n'>
