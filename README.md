@@ -3,9 +3,9 @@ BOOTSTRAP USED BY FRONTEND
 MYSQL USED BY THE DATA
 HTML ,CSS +JS= BOOTSTRAP , PHP, MYSQL 
 basic beauty center fonk sign in sign up take app delete ,update etx...
-# SİGN UP 
+# SIGN UP 
 USER ENTER DATA WİTH FORM sign.up  add customer tabe in beauty__center data base
-# SİGN İN 
+# SIGN İN 
 USERNAME PASSWORD CHECK FROM DATABASE.
 PASSWORD CONTROL PASS IF THE USER WANTS TO LOG IN WITHOUT LOGGING OUT.
 # LOG OUT
