@@ -5,9 +5,9 @@ HTML ,CSS +JS= BOOTSTRAP , PHP, MYSQL <br/>
 basic beauty center fonk sign in sign up take app delete ,update etx... <br/>
 # PROJECT USE
 **1.:** To download the file and open it on your computer: <br/>
-Let's run xampp control panel apache and mysql. Let's connect to mysql admin
+Let's run xampp control panel apache and mysql. <br/> Let's connect to mysql admin
 address bar
-Let's edit it as `http://localhost:/8080//phpmyadmin`  <br/>
+Let's edit it as <br/> `http://localhost:/8080//phpmyadmin`  <br/>
 Create a data base called beauty center <br/>
 Moving files to xampp/ htdocs folder. from files connect.php file  <br/>
 $db_host = "localhost";  <br/>
@@ -15,13 +15,13 @@ $db_username = "root";<br/>
 $db_userpass = "";<br/>
 $db_name = "beuty_center"; <br/> olarak düzenleyiniz
 # PROJE KULLANIMI: 
-PROJEYI BİLGİSAYARINIZA İNDİRNİZ.
-XAMP KONTROL PANELİNDEN `apache` VE `mysql` START EDİNİZ.
-`mysql` APMİN PANELİNE ULAŞINIZ . 
-database.sql içeriğine uygun ilerleyiniz.
-xamp/htdocs/
-dizinin altına dosyaları ekleyiniz.
-**NOT: dizine eklediğiniz dosya uzantına dıkkat ederek linkinizi düzenleyiniz .<br/> ornegin :  proje.php dosyasını eklemisseniz /proje.php/index.php şeklinde düzenleme yapınız 
+PROJEYI BİLGİSAYARINIZA İNDİRNİZ.<br/>
+XAMP KONTROL PANELİNDEN `apache` VE `mysql` START EDİNİZ.<br/>
+`mysql` APMİN PANELİNE ULAŞINIZ . <br/>
+database.sql içeriğine uygun ilerleyiniz.<br/>
+`xamp/htdocs/`
+dizinin altına dosyaları ekleyiniz.<br/>
+**NOT: dizine eklediğiniz dosya uzantına dıkkat ederek linkinizi düzenleyiniz .<br/> ornegin :  proje.php dosyasını eklemisseniz /proje.php/index.php şeklinde düzenleme yapınız <br/>
 `apache` adminden izleyiniz.** .<br/><br/><br/>
 **2. : [İletilen linke tıklamanız yeterli.](http://cmnhmyr.epizy.com/index.php)**
 <br/><br/><br/>
