@@ -1,4 +1,7 @@
 # beauty_center_web
+BOOTSTRAP USED BY FRONTEND
+MYSQL USED BY THE DATA
+HTML ,CSS +JS= BOOTSTRAP , PHP, MYSQL 
 basic beauty center fonk sign in sign up take app delete ,update etx...
 # SİGN UP 
 USER ENTER DATA WİTH FORM sign.up  add customer tabe in beauty__center data base
