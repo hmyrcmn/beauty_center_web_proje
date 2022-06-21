@@ -10,9 +10,9 @@ address bar
 Let's edit it as `http://localhost:/8080//phpmyadmin`  <br/>
 Create a data base called beauty center <br/>
 Moving files to xampp/ htdocs folder. from files connect.php file  <br/>
-$db_host = "localhost";  
-$db_username = "root";
-$db_userpass = "";
+$db_host = "localhost";  <br/>
+$db_username = "root";<br/>
+$db_userpass = "";<br/>
 $db_name = "beuty_center"; <br/> olarak düzenleyiniz
 # PROJE KULLANIMI: 
 PROJEYI BİLGİSAYARINIZA İNDİRNİZ.
