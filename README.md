@@ -21,7 +21,7 @@ XAMP KONTROL PANELİNDEN `apache` VE `mysql` START EDİNİZ.<br/>
 database.sql içeriğine uygun ilerleyiniz.<br/>
 `xamp/htdocs/`
 dizinin altına dosyaları ekleyiniz.<br/>
-**NOT: dizine eklediğiniz dosya uzantına dıkkat ederek linkinizi düzenleyiniz .<br/> ornegin :  proje.php dosyasını eklemisseniz /proje.php/index.php şeklinde düzenleme yapınız <br/>
+**NOT: dizine eklediğiniz dosya uzantına dıkkat ederek linkinizi düzenleyiniz .
 `apache` adminden izleyiniz.** .<br/><br/><br/>
 **2. : [İletilen linke tıklamanız yeterli.](http://cmnhmyr.epizy.com/index.php)**
 <br/><br/><br/>
